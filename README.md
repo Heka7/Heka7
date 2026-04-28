@@ -51,31 +51,8 @@ Who's the Spy, and more. Play with friends anywhere, anytime.
 
 ---
 
-### ⚽ Football Who's Who
-An interactive trivia game challenging players to identify football stars from their images. Features online and offline
-modes with real-time scoring.
-`HTML` `JavaScript` `Firebase`
 
----
 
-### 🎬 Movie Charades
-A digital charades game with a curated library of movie titles optimized for acting out. Features timers, score
-tracking, and a smooth mobile-first interface.
-`HTML` `CSS` `JavaScript`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mo-heka&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats">
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-heka&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages">
-</p>
 
 ---
 
