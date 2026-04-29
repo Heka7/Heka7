@@ -32,7 +32,7 @@ I build complete web applications from scratch, combining clean front-end design
 ## 🛠️ Tech Stack
 
 **Languages:**
-`C++` `HTML5` `CSS3` `JavaScript`
+`C++` `HTML` `CSS` `JavaScript`
 
 **Databases & Backend:**
 `Firebase Realtime DB` `Firestore` `MySQL`
